@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{829DA59F-6120-43B2-8AEB-0B3AFE545B00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogIn.cs">
+    <Files>
+      <File FileName="CheckInWindow.cs" Line="10" Column="7" />
+      <File FileName="LogIn.cs" Line="4" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hotel PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

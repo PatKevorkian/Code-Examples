@@ -1,0 +1,42 @@
+c:\vs2013\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe.config
+c:\vs2013\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe
+c:\vs2013\BCNF-1\BCNF-1\bin\Debug\BCNF-1.pdb
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csprojResolveAssemblyReference.cache
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Form1.resources
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Properties.Resources.resources
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csproj.GenerateResource.Cache
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF-1.exe
+c:\vs2013\BCNF-1\BCNF-1\obj\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe.config
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF-1.exe
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\bin\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Form1.resources
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Properties.Resources.resources
+C:\Users\Patrick Kevorkian\Downloads\BCNF-1\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csproj.GenerateResource.Cache
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe.config
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.exe
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.pdb
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\bin\Debug\BCNF-1.pdb
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csprojResolveAssemblyReference.cache
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Form1.resources
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF_1.Properties.Resources.resources
+C:\Users\patrick.kevorkian\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.csproj.GenerateResource.Cache
+E:\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe.config
+E:\BCNF-1\BCNF-1\obj\Debug\BCNF-1.exe
+E:\BCNF-1\BCNF-1\obj\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\bin\Debug\BCNF-1.exe.config
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF-1.exe
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\bin\Debug\BCNF-1.exe
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\bin\Debug\BCNF-1.pdb
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF-1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF_1.Form1.resources
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF_1.Properties.Resources.resources
+C:\Users\Patrick Kevorkian\Desktop\BCNF-1\obj\Debug\BCNF-1.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\BCNF-1\BCNF-1\bin\Debug\BCNF-1.exe.config
+C:\Users\Steven\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.exe
+C:\Users\Steven\Desktop\BCNF-1\BCNF-1\obj\Debug\BCNF-1.pdb

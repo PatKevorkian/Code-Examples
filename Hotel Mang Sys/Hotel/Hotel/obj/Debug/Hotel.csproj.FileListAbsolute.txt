@@ -1,0 +1,28 @@
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/bin/Debug/Hotel.exe.config
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/bin/Debug/Hotel.exe
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/bin/Debug/Hotel.pdb
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.CheckInWindow.resources
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.Kitchen.resources
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.LogIn.resources
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.Properties.Resources.resources
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.csproj.GenerateResource.Cache
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.exe
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.pdb
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.csprojResolveAssemblyReference.cache
+C:/Users/Steven/documents/visual studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.FrontDeskSwitcher.resources
+C:/Users/Steven/Documents/Visual Studio 2013/Projects/Hotel/Hotel/obj/Debug/Hotel.CheckOut.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.csprojResolveAssemblyReference.cache
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.CheckInWindow.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.CheckOut.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.FrontDeskSwitcher.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.Kitchen.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.LogIn.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.Properties.Resources.resources
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.csproj.GenerateResource.Cache
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.csproj.CoreCompileInputs.cache
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.exe
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/obj/Debug/Hotel.pdb
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/bin/Debug/Hotel.exe.config
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/bin/Debug/Hotel.exe
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/bin/Debug/Hotel.pdb
+/Users/PatrickKevorkian/CSC Labs/CSC 430/CSC 430 Final Sub/Hotel/Hotel/bin/Debug/MySql.Data.dll
