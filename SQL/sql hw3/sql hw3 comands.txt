@@ -1,0 +1,9 @@
+select customerid, count(*) as 'Number of Orders' from orders group by customerid order by 'Number of Orders' desc limit 0,1;
+
+
+
+
+
+select customers.name,orders.customerid, count(orders.customerid) as 'Number of Orders' from orders,customers where customers.customerid=orders.customerid group by orders.customerid order by 'Number of Orders' desc;
+
+

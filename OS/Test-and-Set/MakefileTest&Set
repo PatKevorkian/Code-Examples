@@ -1,0 +1,3 @@
+all:
+	g++ -std=c++11 test-and-set.cpp -pthread -o test-and-set
+

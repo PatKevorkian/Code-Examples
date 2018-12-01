@@ -1,0 +1,9 @@
+Test and Set Method
+
+	Filename: test-and-set.cpp
+
+	Compile with: g++ -std=c++11 test-and-set.cpp -pthread
+	Run: ./a.out
+
+	Makefile: Makefile-1
+	Use Makefile: make -f Makefile-1

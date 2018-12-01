@@ -1,0 +1,14 @@
+1. Semaphore
+  Folder: Source Code/Semaphore
+  Filename: semaphore.cpp
+  Compile with: g++ -std=c++11 semaphore.cpp -pthread
+  Run: ./a.out
+2. Test and Set Method
+	Folder: Source Code/TestAndSet
+	Filename: TestAndSet.cpp
+	Compile with: g++ -std=c++11 TestAndSet.cpp -pthread
+	Run: ./a.out
+3. Monitor
+  Dev-C/C++ enviroment
+  must add p-threads to enviroment
+  compile and run.

@@ -1,0 +1,8 @@
+United States of America, 320206000, English 
+People’s Republic of China, 1357380000, Mandarin
+Marshal Islands, 60000, Marshalleese
+United Kingdom of Great Britain an Northern Ireland, 64100000, English 
+Mongolia, 3000000, Mongolian language 
+Armenia, 2977000, Armenian 
+Peru, 31151643, Spanish 
+Vatican City, 842, Italian 
